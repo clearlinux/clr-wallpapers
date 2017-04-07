@@ -1,4 +1,4 @@
-AC_INIT([Clear Linux Project Wallpapers], 1, [michael.i.doherty@intel.com], [clear-wallpapers], [https://clearlinux.org/])
+AC_INIT([Clear Linux Project Wallpapers], 1, [michael.i.doherty@intel.com], [clr-wallpapers], [https://clearlinux.org/])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1.9 tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 
@@ -10,7 +10,7 @@ AC_CONFIG_FILES([Makefile
 AC_OUTPUT
 
 AC_MSG_RESULT([
-        clear-wallpapers $VERSION
+        clr-wallpapers $VERSION
         ========
 
         prefix:                 ${prefix}
