@@ -5,7 +5,8 @@ AC_PREFIX_DEFAULT(/usr/local)
 AC_PROG_LN_S
 AC_PROG_MKDIR_P
 
-AC_CONFIG_FILES([Makefile])
+AC_CONFIG_FILES([Makefile
+                 clr-wallpapers.xml])
 AC_OUTPUT
 
 AC_MSG_RESULT([

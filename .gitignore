@@ -7,3 +7,5 @@ config.status
 configure
 install-sh
 missing
+
+clr-wallpapers.xml
