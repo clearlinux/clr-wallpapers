@@ -2,6 +2,9 @@ AC_INIT([Clear Linux Project Wallpapers], 1, [michael.i.doherty@intel.com], [cle
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1.9 tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 
+AC_PROG_LN_S
+AC_PROG_MKDIR_P
+
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT
 
