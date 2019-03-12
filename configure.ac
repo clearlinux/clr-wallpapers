@@ -1,4 +1,4 @@
-AC_INIT([Clear Linux Project Wallpapers], 3, [michael.i.doherty@intel.com], [clr-wallpapers], [https://clearlinux.org/])
+AC_INIT([Clear Linux Project Wallpapers], 5, [marcos.simental.magana@intel.com], [clr-wallpapers], [https://clearlinux.org/])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1.9 tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 
