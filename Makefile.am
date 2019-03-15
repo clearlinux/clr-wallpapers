@@ -8,7 +8,8 @@ artwork_DATA = \
         Wallpapers/4K/color_logo_wire_2560x1440.png \
 	Wallpapers/4K/logo_2560x1440.png \
 	Wallpapers/4K/Wire_2560x1440.png \
-        Wallpapers/4K/wallpaper_4K_05.png
+        Wallpapers/4K/wallpaper_4K_05.png \
+        Wallpapers/4K/lockscreen_4K_01.png
 
 
 backgroundpropsdir = $(datadir)/gnome-background-properties
