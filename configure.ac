@@ -6,7 +6,8 @@ AC_PROG_LN_S
 AC_PROG_MKDIR_P
 
 AC_CONFIG_FILES([Makefile
-                 clr-wallpapers.xml])
+                 clr-wallpapers.xml
+                 clearlinux-backgrounds.xml])
 AC_OUTPUT
 
 AC_MSG_RESULT([
